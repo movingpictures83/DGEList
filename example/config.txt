@@ -1,0 +1,2 @@
+Prefix plugins/DGEList/example/
+Plugin DGEList inputfile parameters.txt outputfile d
